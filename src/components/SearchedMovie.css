@@ -1,0 +1,35 @@
+.movie-list{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 10px;
+}
+
+.movie-item{
+    background-color: rgb(206, 175, 175);
+    width:250px;
+    margin: 10px 10px;
+    padding: 20px;
+    border-radius: 20px;
+    
+    
+}
+
+
+.movie-poster{
+    width:200px;
+    border-radius:10px ;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.movie_title{
+    width:200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 25px;
+    height: 50px;
+    text-align: center;
+    
+    
+}
